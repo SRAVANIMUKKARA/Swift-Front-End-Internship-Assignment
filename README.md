@@ -1,3 +1,20 @@
+# Swift Front-End Internship Assignment
+
+This repository contains the solution to the **Swift Front-End Internship Assignment**. The project demonstrates front-end development skills, responsive design, and clean code practices.
+
+---
+
+## ✨ Features
+
+- Responsive user interface
+- Component-based architecture
+- Clean, organized project structure
+- Modern front-end tooling (React, JavaScript)
+
+---
+
+## 📂 Project Structure
+
 
 ---
 
